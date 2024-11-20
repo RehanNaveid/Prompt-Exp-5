@@ -113,7 +113,8 @@ To design a highly responsive and user-friendly AI-powered chatbot tailored for 
 - Develop APIs for order tracking and recommendations. 
 4. **Testing:** Simulate real-world scenarios for validation. 
 4. **Deployment:** Host on scalable cloud infrastructure. 
-4. **Integration:** Embed on the website and mobile app.![Aspose Words a3ddd68c-4829-41c2-a63e-af6a04d934c2 002](https://github.com/user-attachments/assets/c9fbb3c9-0994-433a-a2aa-b5676dd054e3)
+4. **Integration:** Embed on the website and mobile app.
+  ![Aspose Words a3ddd68c-4829-41c2-a63e-af6a04d934c2 002](https://github.com/user-attachments/assets/c9fbb3c9-0994-433a-a2aa-b5676dd054e3)
 
 
 **Evaluation and Feedback Collection** 
