@@ -99,7 +99,8 @@ To design a highly responsive and user-friendly AI-powered chatbot tailored for 
   **Insights:** 
 
 - Offer to transfer the query to a human agent. 
-- Provide users with a list of potential options or rephrase suggestions. ![](Aspose.Words.a3ddd68c-4829-41c2-a63e-af6a04d934c2.001.png)
+- Provide users with a list of potential options or rephrase suggestions. ![Aspose Words a3ddd68c-4829-41c2-a63e-af6a04d934c2 001](https://github.com/user-attachments/assets/ea822eb9-3a06-4e95-a559-97734c6d11ab)
+
 
 **Implementation Plan** 
 
@@ -112,7 +113,8 @@ To design a highly responsive and user-friendly AI-powered chatbot tailored for 
 - Develop APIs for order tracking and recommendations. 
 4. **Testing:** Simulate real-world scenarios for validation. 
 4. **Deployment:** Host on scalable cloud infrastructure. 
-4. **Integration:** Embed on the website and mobile app. ![](Aspose.Words.a3ddd68c-4829-41c2-a63e-af6a04d934c2.002.png)
+4. **Integration:** Embed on the website and mobile app.![Aspose Words a3ddd68c-4829-41c2-a63e-af6a04d934c2 002](https://github.com/user-attachments/assets/c9fbb3c9-0994-433a-a2aa-b5676dd054e3)
+
 
 **Evaluation and Feedback Collection** 
 
@@ -124,7 +126,8 @@ To design a highly responsive and user-friendly AI-powered chatbot tailored for 
 **Key Findings** 
 
 - Users appreciated quick order updates but requested better personalization in recommendations. 
-- Operators highlighted the need for real-time analytics to monitor chatbot performance. ![](Aspose.Words.a3ddd68c-4829-41c2-a63e-af6a04d934c2.003.png)
+- Operators highlighted the need for real-time analytics to monitor chatbot performance.![Aspose Words a3ddd68c-4829-41c2-a63e-af6a04d934c2 003](https://github.com/user-attachments/assets/ecc1aca6-b4a7-42ec-a06d-104116ae3723)
+
 
 **Documentation of Findings**
 
